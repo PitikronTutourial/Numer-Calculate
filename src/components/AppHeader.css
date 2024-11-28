@@ -1,0 +1,16 @@
+.App-header{
+    border-bottom: 1px solid gray;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.App-header-Home{ 
+   font-weight: 20;
+   position: absolute;
+   left: 52px;
+   text-decoration: none;
+   justify-content: right;
+   color: black;
+   
+}
